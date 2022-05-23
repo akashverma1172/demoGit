@@ -41,3 +41,16 @@ body{
     height: 40px;
     border-radius: 50px;
 }
+
+/* Course card */
+.course-container{
+    display: inline-flex;
+    margin: 10px;
+    width: 220px;
+    height: 280px;
+    padding: 10px;
+    background-color: #cfcfcf;
+}
+.course-head{
+    font-size: 10px;
+}
